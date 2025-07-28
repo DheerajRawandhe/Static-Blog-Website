@@ -3,7 +3,7 @@ Welcome to my Personal Blog Website a simple and clean static blog where I share
 
 🔗 Live Website : https://dheeraj-blog.netlify.app/
 
-📌 Features
+📌 Features :
 - Fully responsive static blog layout.
 - Clean and minimal design.
 - SEO-friendly structure.
