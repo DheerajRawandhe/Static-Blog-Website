@@ -13,5 +13,5 @@ Welcome to my Personal Blog Website a simple and clean static blog where I share
 🛠️ Tech Stack
 HTML5
 CSS3
-JavaScript (Optional for interactions)
+JavaScript
 
