@@ -6,7 +6,7 @@ Welcome to my Personal Blog Website a simple and clean static blog where I share
 📌 Features :-
 - Fully responsive static blog layout.
 - Clean and minimal design.
-- SEO-friendly structur.
+- SEO-friendly structure.
 - Hosted on Netlify (Free hosting with custom domain support).
 - Easy to update articles via HTML/CSS (or integrate CMS in future).
 
