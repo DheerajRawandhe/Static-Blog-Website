@@ -11,7 +11,7 @@ Welcome to my Personal Blog Website a simple and clean static blog where I share
 - Easy to update articles via HTML/CSS (or integrate CMS in future).
 
 🛠️ Tech Stack
-HTML
+HTML5
 CSS3
 JavaScript
 
