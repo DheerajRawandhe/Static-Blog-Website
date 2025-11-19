@@ -8,7 +8,7 @@ Welcome to my Personal Blog Website a simple and clean static blog where I share
 - Clean and minimal design.
 - SEO-friendly structure.
 - Hosted on Netlify (Free hosting with custom domain support).
-- Easy to update articles via HTML/CSS (or integrate CMS in future).
+- Easy to update articles via HTML/CSS (or integrate CMS in future)
 
 🛠️ Tech Stack
 HTML5
