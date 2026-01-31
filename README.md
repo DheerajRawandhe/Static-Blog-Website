@@ -10,7 +10,7 @@ Welcome to my Personal Blog Website a simple and clean static blog where I share
 - Hosted on Netlify (Free hosting with custom domain support).
 - Easy to update articles via HTML/CSS (or integrate CMS in future)
 
-🛠️ Tech Stack
+🛠️ Tech Stack :-
 HTML5
 CSS3
 JavaScript
